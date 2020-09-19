@@ -4,7 +4,7 @@
 
 **Email:** _karina.savritskaya@gmail.com_  
 
-          [**GitHub**]: (https://github.com/ksavritskaya "ksavritskaya")
+          [**GitHub**]:(https://github.com/ksavritskaya)
 ## Personal profile statement
 
 A self-motivated, responsible and adapted Geography faculty graduate is seeking a full-time **web development** position which will utilize *soft and hard skills* developed through **RS school** course in this field.
@@ -23,13 +23,15 @@ Belarusian State University (the faculty of geography and geoinformatics), Minsk
 ## Education
  * __*Аcademic qualifications:*__
  
-**2013 - 2014** MScs in Geography
+**2013 - 2014** 
+**MScs in Geography**
 
                 Belarusian State University
                 
                 Minsk, Belarus
                 
-**2008 - 2013** Geographer
+**2008 - 2013** 
+**Geographer**
 
                 Belarusian State University
                 
