@@ -1,6 +1,9 @@
 # **Karyna Saurytskaya**
 ### 20, Kalektarnaya, Minsk, 220004
-**Mobile:** +375291212040     **Email:** _karina.savritskaya@gmail.com_
+**Mobile:** +375291212040  
+
+**Email:** _karina.savritskaya@gmail.com_  
+
           [**GitHub**]: https://github.com/ksavritskaya "ksavritskaya"
 ## Personal profile statement
 
@@ -9,21 +12,30 @@ A self-motivated, responsible and adapted Geography faculty graduate is seeking 
 ## Experience/Job History
 
 **08/01/2014 - present**
+
 Institute of regional and urban planning (UE "BELNIIPgradostroitelstva"), Minsk
 *engineer at urban economics department* (urban econonomist)
 **09/01/2013 - 06/30/2014**
+
 Belarusian State University (the faculty of geography and geoinformatics), Minsk
 *professor*
 
 ## Education
- * *Аcademic qualifications:*
+ * __*Аcademic qualifications:*__
+ 
 **2013 - 2014** MScs in Geography
+
                 Belarusian State University
+                
                 Minsk, Belarus
+                
 **2008 - 2013** Geographer
+
                 Belarusian State University
+                
                 Minsk, Belarus
- * *Online courses:*
+                
+  * __*Online courses:*__
  1) [Course "JavaScript/Front-end"](https://rs.school/js/) (in progress)
  2) [Course "Learn Python 2](https://www.codecademy.com/learn/learn-python) (2019)
  
