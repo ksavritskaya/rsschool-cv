@@ -36,7 +36,7 @@ Belarusian State University (the faculty of geography and geoinformatics), Minsk
  
 ## Code
 
-See you *__soon__* at my **GitHub**
+See you *__soon__* at my [**GitHub**](https://github.com/ksavritskaya)
 
 ## Languages
 
